@@ -1,3 +1,5 @@
+# Tugas 1 Sinyal
+
 Screenshoot A
 ![A](https://github.com/rsydfddn/tugas-sinyal/assets/139645166/ee8b11d7-d507-457c-be12-ddf3b2271340)
 
